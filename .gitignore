@@ -1,0 +1,11 @@
+static/audio/
+uploads/
+models/
+node_modules/
+fails/
+live2d_desktop
+.venv/
+.python-version
+uv.lock
+__pycache__/
+*lock*
