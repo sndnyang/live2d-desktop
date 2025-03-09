@@ -1,0 +1,11 @@
+[project]
+name = "live2d-desktop"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = "==3.11.3"
+dependencies = [
+    "edge-tts==7.0.0",
+    "flask==3.1.0",
+    "pyautogui==0.9.54",
+]
